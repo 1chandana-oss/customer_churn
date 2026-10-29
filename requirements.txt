@@ -1,0 +1,40 @@
+
+# Data manipulation and numerical computing
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning and preprocessing
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Model explainability
+shap
+
+# Experiment tracking and model monitoring
+mlflow
+evidently
+
+# API development and data validation
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# Interactive dashboard
+streamlit
+
+# Testing
+pytest
+httpx
+
+# Notebook environment
+jupyter
+ipykernel
+
+# Model persistence
+joblib
